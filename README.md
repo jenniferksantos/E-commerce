@@ -3,6 +3,11 @@
 ## Description
 This e-commerce app is a full-stack web application built with the MERN stack (MongoDB, Express.js, React, and Node.js). It features a comprehensive shopping cart system, product management, and user authentication.
 
+## Demo
+
+Check out the live demo: [MERN App](https://jenniferksantos.github.io/E-commerce/)
+
+
 ### Features
 - User registration and authentication
 - Product listing with detailed descriptions and images
