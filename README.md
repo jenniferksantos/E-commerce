@@ -5,7 +5,7 @@ This e-commerce app is a full-stack web application built with the MERN stack (M
 
 ## Demo
 
-Check out the live demo: [MERN App](https://jenniferksantos.github.io/E-commerce/)
+Check out the live demo: [E-commerce App](https://jenniferksantos.github.io/E-commerce/)
 
 
 ### Features
@@ -54,9 +54,14 @@ You need to install the software:
 - cd frontend
 - npm start
 
-6. Install admin panel dependencies:
+6. Install Admin Panel dependencies:
 
 - npm create vite@latest .
+
+7. Run Admin Panel:
+
+- cd admin
+- npm run dev 
 
 ## Built With
 
